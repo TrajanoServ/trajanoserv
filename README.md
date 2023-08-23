@@ -1,5 +1,5 @@
 ### Olá, Bem vindo ao Perfil!😁
-### Eu sou o Enzo Trajano!
+### Perfil do Enzo Trajano!
 
 - 🌱 Estou estudando JavaScript
 - 😄 Pronouns: Ele/Dele
