@@ -1,7 +1,7 @@
 ### Olá, Bem vindo ao Perfil!😁
 ### Perfil do Enzo Trajano!
 
-- 🌱 Estou estudando JavaScript
+- 🌱 Estudando: PHP Laravel
 - 😄 Pronouns: Ele/Dele
 - ⚡ Foco em FrontEnd
 
